@@ -4,7 +4,7 @@
 
 B.Tech CSE (AI/ML) @ UPES Dehradun · CGPA 8.51 · Class of 2028
 
-Currently interning at **[NewCycl](https://newcycl.in)** — building Rawbin, an electric home composting device — while pursuing the **Data Science & AI Program by IIT Roorkee E&ICT Academy** (March–November 2026).
+Currently interning at **[NewCycl](https://newcycl.com)** — building Rawbin, an electric home composting device — while pursuing the **Data Science & AI Program by IIT Roorkee E&ICT Academy** (March–November 2026).
 
 I like building things that combine technical depth with real-world usability: ML systems, full-stack platforms, and the communities that grow around them.
 
@@ -88,7 +88,7 @@ Freelance project — production-ready ordering platform for a live food brand. 
 
 ---
 
-### [Personal Portfolio Website](https://github.com/mayankmalik263/Portfolio-Website) · [mayankmalik.vercel.app](https://mayankmalik.vercel.app)
+### [Personal Portfolio Website](https://github.com/mayankmalik263/Portfolio-Website) · [mayankmalik.vercel.app](https://mayankmalik.vercel.app) *(Active)*
 Clean, minimal portfolio built with Next.js 14 (App Router), Tailwind CSS, and Shadcn UI. Features a serverless markdown blog via gray-matter and next-mdx-remote, a contact form via Resend, and full responsive + dark mode support. Deployed on Vercel.
 
 `Next.js` `TypeScript` `Tailwind` `Shadcn UI` `Resend`
@@ -128,10 +128,6 @@ Custom 2D game engine built from scratch featuring a complete Entity Component S
 ![](https://github-readme-stats.vercel.app/api?username=mayankmalik263&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=mayankmalik263&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankmalik263&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mayankmalik263&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
