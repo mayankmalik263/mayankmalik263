@@ -2,7 +2,7 @@
 
 **AI/ML Engineering student | Builder | Community Leader**
 
-B.Tech CSE (AI/ML) @ UPES Dehradun · CGPA 8.51 · Class of 2028
+B.Tech CSE (AI/ML) @ UPES Dehradun · Class of 2028
 
 Currently interning at **[NewCycl](https://newcycl.com)** — building Rawbin, an electric home composting device — while pursuing the **Data Science & AI Program by IIT Roorkee E&ICT Academy** (March–November 2026).
 
